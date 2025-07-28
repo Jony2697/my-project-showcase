@@ -11,8 +11,8 @@
 - **English Lesson Website** — Visit: https://vermillion-semifreddo-531d8d.netlify.app/
 - **Book Website** — Visit: https://wonderful-praline-b1ac0d.netlify.app/
 - **Auction Gallery Website** — Visit: https://amazing-starship-e1ab39.netlify.app/
-- **Assignment 3 (HTML/CSS/JS)** — Visit: https://jony2697.github.io/Assignment-3/
-- **Assignment 5 (Daily Task Website)** — Visit: https://jony2697.github.io/Assignment-5/
+- **grocery shop website** — Visit: https://jony2697.github.io/Assignment-3/
+- **Daily Task Website** — Visit: https://jony2697.github.io/Assignment-5/
 - **Tea House Website (Tailwind CSS)** — Visit: https://jony2697.github.io/tea-house-tailwind/
 
 ---
