@@ -3,8 +3,7 @@
 
 ## 🔥 Live Projects
 
-- **QuickHire Website**  
-  🔗 [Visit](https://quick-hire-app-8c5f2.web.app/)
+- **QuickHire Website**  🔗 [Visit](https://quick-hire-app-8c5f2.web.app/)
 
 - **BoxBuddy Website**  
   🔗 [Visit](https://magenta-puppy-4dac75.netlify.app/)
