@@ -5,7 +5,7 @@
 - **QuickHire Website** — Visit: https://quick-hire-app-8c5f2.web.app/
 - **BoxBuddy Website** — Visit: https://magenta-puppy-4dac75.netlify.app/
 - **Dragon News Website** — Visit: https://dragon-news-68a6b.web.app/
-- **EasyBuy Product Add Website** — Visit: https://incandescent-lolly-ce5983.netlify.app/
+- **EasyBuy Product Website** — Visit: https://incandescent-lolly-ce5983.netlify.app/
 - **Coffee Shop Website** — Visit: https://coffee-store-app-b51a4.web.app/
 - **Lawyer Hired Website** — Visit: https://wonderful-cuchufli-0a5de6.netlify.app/
 - **English Lesson Website** — Visit: https://vermillion-semifreddo-531d8d.netlify.app/
